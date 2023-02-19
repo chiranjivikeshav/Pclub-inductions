@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pclub-inductions/static/css/main.040391f6.css",
+    "main.js": "/Pclub-inductions/static/js/main.fd92ac83.js",
+    "static/js/787.db06f0f9.chunk.js": "/Pclub-inductions/static/js/787.db06f0f9.chunk.js",
+    "index.html": "/Pclub-inductions/index.html",
+    "main.040391f6.css.map": "/Pclub-inductions/static/css/main.040391f6.css.map",
+    "main.fd92ac83.js.map": "/Pclub-inductions/static/js/main.fd92ac83.js.map",
+    "787.db06f0f9.chunk.js.map": "/Pclub-inductions/static/js/787.db06f0f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040391f6.css",
+    "static/js/main.fd92ac83.js"
+  ]
+}
